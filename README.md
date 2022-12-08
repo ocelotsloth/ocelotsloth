@@ -4,7 +4,7 @@
 
 If you'd like to check in on the elves, I'm working on them in this Jupyter Notebook:
 
-  - https://github.com/ocelotsloth/adventofcode/blob/master/2022/Advent%20of%20Code%202022.ipynb
+  - https://github.com/ocelotsloth/adventofcode/blob/mainline/2022/Advent%20of%20Code%202022.ipynb
 
 I'm intentionally not doing these until a while after they release so I don't trash my sleep. So no leaderboards for me.
 
